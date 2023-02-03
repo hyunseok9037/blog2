@@ -7,9 +7,6 @@
                 <a href="/board/1/updateForm" class="btn btn-warning">수정</a>
                 <button id="btn-delete" class="btn btn-danger">삭제</button>
             </div>
-
-
-
             <div class="mb-2">
                 글 번호 : <span id="id"><i>3 </i></span> 작성자 : <span class="me-3"><i>ssar </i></span>
 

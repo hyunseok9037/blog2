@@ -32,9 +32,9 @@
         </div>
 
         <script>
-            function valid() {
-                alert("회원가입 유효성 검사");
-            }
+            // function valid() {
+            //     alert("회원가입 유효성 검사");
+            // }
         </script>
 
         <%@ include file="../layout/footer.jsp" %>
